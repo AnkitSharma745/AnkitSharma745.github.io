@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ankitsharma745/static/css/main.c04d69e5.css",
+    "main.js": "/ankitsharma745/static/js/main.b597b324.js",
+    "static/js/787.1ed0c42c.chunk.js": "/ankitsharma745/static/js/787.1ed0c42c.chunk.js",
+    "static/media/pngwing.com.png": "/ankitsharma745/static/media/pngwing.com.3003004c905b073d1b0c.png",
+    "static/media/Vitejs.png": "/ankitsharma745/static/media/Vitejs.c5c72aa59633ae193827.png",
+    "static/media/AnkitSharma-FrontendDeveloper(React)(Resume).pdf": "/ankitsharma745/static/media/AnkitSharma-FrontendDeveloper(React)(Resume).bd0b2e15fb9af59a88fa.pdf",
+    "static/media/Screenshot 2023-12-17 092216.png": "/ankitsharma745/static/media/Screenshot 2023-12-17 092216.ab584f5eda35ff20368d.png",
+    "static/media/1700581640571-removebg-preview (1)-fotor-20231217104429.png": "/ankitsharma745/static/media/1700581640571-removebg-preview (1)-fotor-20231217104429.dd64850e0284f3101dd7.png",
+    "static/media/vscode.png": "/ankitsharma745/static/media/vscode.a61dc62c499ed3aeefdc.png",
+    "static/media/Screenshot 2023-12-17 094616.png": "/ankitsharma745/static/media/Screenshot 2023-12-17 094616.8e6684a101f47d3181a9.png",
+    "static/media/home-bg.jpg": "/ankitsharma745/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/Screenshot 2023-12-17 100226.png": "/ankitsharma745/static/media/Screenshot 2023-12-17 100226.0fc1f78bec5428699392.png",
+    "static/media/netlify-svgrepo-com.svg": "/ankitsharma745/static/media/netlify-svgrepo-com.16fa7138d5f04b33e5353a2321fa5e6d.svg",
+    "static/media/pre.svg": "/ankitsharma745/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/ankitsharma745/index.html",
+    "static/media/vercel.svg": "/ankitsharma745/static/media/vercel.92c172f3cac1b86bd80d0ff64dc77317.svg",
+    "static/media/git-icon-logo-svgrepo-com.svg": "/ankitsharma745/static/media/git-icon-logo-svgrepo-com.e91eb163f73eebdbc665d8748b36a8e4.svg",
+    "static/media/github-mark.svg": "/ankitsharma745/static/media/github-mark.6fa18895f6e6c7772cab7049f7e05f59.svg",
+    "static/media/npm.svg": "/ankitsharma745/static/media/npm.5066c092080d10750a0352c3a2f64c6c.svg",
+    "main.c04d69e5.css.map": "/ankitsharma745/static/css/main.c04d69e5.css.map",
+    "main.b597b324.js.map": "/ankitsharma745/static/js/main.b597b324.js.map",
+    "787.1ed0c42c.chunk.js.map": "/ankitsharma745/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c04d69e5.css",
+    "static/js/main.b597b324.js"
+  ]
+}

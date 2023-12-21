@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.82bf0c7f.css",
-    "main.js": "/static/js/main.c2475e80.js",
+    "main.js": "/static/js/main.e9d77626.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/pngwing.com.png": "/static/media/pngwing.com.3003004c905b073d1b0c.png",
     "static/media/Vitejs.png": "/static/media/Vitejs.c5c72aa59633ae193827.png",
-    "static/media/AnkitSharma-FrontendDeveloper(React)(Resume).pdf": "/static/media/AnkitSharma-FrontendDeveloper(React)(Resume).bd0b2e15fb9af59a88fa.pdf",
+    "static/media/Ankit_Sharma.pdf": "/static/media/Ankit_Sharma.5fb8f7c8a5918ac7dfd1.pdf",
     "static/media/Screenshot 2023-12-17 092216.png": "/static/media/Screenshot 2023-12-17 092216.ab584f5eda35ff20368d.png",
     "static/media/1700581640571-removebg-preview (1)-fotor-20231217104429.png": "/static/media/1700581640571-removebg-preview (1)-fotor-20231217104429.dd64850e0284f3101dd7.png",
     "static/media/vscode.png": "/static/media/vscode.a61dc62c499ed3aeefdc.png",
@@ -20,11 +20,11 @@
     "static/media/github-mark.svg": "/static/media/github-mark.6fa18895f6e6c7772cab7049f7e05f59.svg",
     "static/media/npm.svg": "/static/media/npm.5066c092080d10750a0352c3a2f64c6c.svg",
     "main.82bf0c7f.css.map": "/static/css/main.82bf0c7f.css.map",
-    "main.c2475e80.js.map": "/static/js/main.c2475e80.js.map",
+    "main.e9d77626.js.map": "/static/js/main.e9d77626.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.82bf0c7f.css",
-    "static/js/main.c2475e80.js"
+    "static/js/main.e9d77626.js"
   ]
 }

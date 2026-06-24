@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ankit Sharma | Technical Insights</title>
+    <link>https://ankitsharma745.github.io/blog</link>
+    <description>Full Stack Developer specializing in React, TypeScript, Node.js, and Electron. Building high-performance web and desktop applications with modern technologies.</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Jun 2026 04:29:13 GMT</lastBuildDate>
+    <atom:link href="https://ankitsharma745.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    
+      <item>
+        <title><![CDATA[Building a Next-Level Developer Portfolio]]></title>
+        <link>https://ankitsharma745.github.io/blog/building-portfolio</link>
+        <guid isPermaLink="true">https://ankitsharma745.github.io/blog/building-portfolio</guid>
+        <pubDate>Sat, 29 Nov 2025 00:00:00 GMT</pubDate>
+        <description><![CDATA[A deep dive into the tech stack, design decisions, and performance optimizations behind my personal portfolio.]]></description>
+      </item>
+    
+      <item>
+        <title><![CDATA[Understanding React Server Components]]></title>
+        <link>https://ankitsharma745.github.io/blog/react-server-components</link>
+        <guid isPermaLink="true">https://ankitsharma745.github.io/blog/react-server-components</guid>
+        <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+        <description><![CDATA[Why React Server Components (RSC) are a game-changer for web development performance and simplicity.]]></description>
+      </item>
+    
+  </channel>
+</rss>
